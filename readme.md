@@ -1,1 +1,1 @@
-Thiks is read me file
+This is read me file
